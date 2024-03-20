@@ -1,0 +1,18 @@
+[
+    {
+      "officeName": "Tech Corp",
+      "officePassword": "securePassword123",
+      "taskGroups": ["Development", "Testing", "Design"]
+    },
+    {
+      "officeName": "Marketing Hub",
+      "officePassword": "marketing123",
+      "taskGroups": ["Campaigns", "Social Media", "Analytics"]
+    },
+    {
+      "officeName": "Health Clinic",
+      "officePassword": "healthPass456",
+      "taskGroups": ["Patient Care", "Administration", "Medical Supplies"]
+    }
+  ]
+  

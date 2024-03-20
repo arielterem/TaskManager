@@ -1,0 +1,27 @@
+[
+    {
+      "userName": "user1",
+      "password": "$2a$10$p/gli8aZtuaI1qY0mni87ecs/BytMsGHkV9PX.0copb05wesql6Y6",
+      "email": "user1@example.com",
+      "fullName": "User One",
+      "permissionsStatus": 4,
+      "officeId": "office123"
+    },
+    {
+      "userName": "user2",
+      "password": "$2a$10$p/gli8aZtuaI1qY0mni87ecs/BytMsGHkV9PX.0copb05wesql6Y6",
+      "email": "user2@example.com",
+      "fullName": "User Two",
+      "permissionsStatus": 3,
+      "officeId": "office123"
+    },
+    {
+      "userName": "user3",
+      "password": "$2a$10$p/gli8aZtuaI1qY0mni87ecs/BytMsGHkV9PX.0copb05wesql6Y6",
+      "email": "user3@example.com",
+      "fullName": "User Three",
+      "permissionsStatus": 2,
+      "officeId": "office456"
+    }
+  ]
+  
